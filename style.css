@@ -1,0 +1,56 @@
+<style>
+* { 
+ margin: 0:
+padding: 0;
+ text-decoration: none; 
+}
+body {
+ background: purple;
+ text-align: center;
+}
+.first-head {
+  background: black; 
+}
+h1,h2 {
+ background: yellow; 
+color: red; 
+font-size: 60px;
+ width: 400;
+  padding: 10px;
+}
+p {
+ background: dark-green; 
+color: blue; 
+}
+
+navBar {
+background: black; 
+color: green; 
+font-size: 30px;
+padding: 10px;
+text-align: center; 
+border: 2px solid black;
+ border-radius: 12px;
+  width: 400px;
+}
+navBar a {
+display: block:
+margin: 10px auto; 
+}
+
+.second- main {
+  background: dark-green; 
+}
+.hello {
+  background: darkyellow; 
+}
+.about {
+  background: darkblue;
+}
+.last-footer {
+ background: darkpurple;
+  color: red; 
+  text-align: center:
+}
+  
+  
